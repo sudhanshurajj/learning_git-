@@ -1,0 +1,5 @@
+hello friends!
+
+this is my first session on git
+
+hope it is good.
